@@ -1,7 +1,9 @@
 #include<stdio.h>
 int main(void)
 {
-	while(1);
-	return 0;
+	printf("111111");
+	printf("abigaf");
+		
+	printf("东方今典喊声kdsfn");
 }
 
